@@ -13,7 +13,7 @@ In short:
 * Start Chrome tracing tool by opening <em>about:tracing</em> in a new tab
 * Click the record button (top-left)
 * Select the options you wants to trace. The following works for me.
-* 
+
 <img src="assets/images/tracingoptions.jpg"
      alt="recording options"
      style="float: left; height:300px;" />
