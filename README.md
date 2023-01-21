@@ -103,7 +103,7 @@ No overhead because of the node-to-node interface.
 * The ladder filter worklet is CPU consuming as expected.
 
 ### Table 4 :
-<img src="assets/images/Table2.jpg"/>
+<img src="assets/images/table2.jpg"/>
 
 <img src="assets/images/bell2.jpg"
      alt="Bell sample rate"
