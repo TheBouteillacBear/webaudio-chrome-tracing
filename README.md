@@ -76,7 +76,7 @@ The interval between the two process sequences in the screenshot above is 5.77ms
      alt="Bell sample rate"
      style="float: left; height:250px;"/>
 
-The processing of a global batch of 256 samples increases the latency time. It seems, on the other hand, that the duration of the second quantum is shorter than the first, which can be an advantage from the CPU point of view.
+The processing of a global batch of 256 samples increases the latency. It seems, on the other hand, that the duration of the second quantum is shorter than the first, which can be an advantage from the CPU point of view.
  
 The distribution diagram represents the difference (ms) between the first and the second WebAudio graph processing duration. Positive numbers represent how the duration of the second batch of 128 samples is shorter than the first one (µs).
 <br/><br/><br/><br/>
