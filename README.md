@@ -18,15 +18,15 @@ In short:
      alt="recording options"
      style="float: left; height:300px;" />
 
-    * #### Manually select settings
+* #### Manually select settings
 
-    * #### Record Categories
-        * audio
-        * webaudio
+* #### Record Categories
+    * audio
+    * webaudio
 
-    * #### Disabled by Default categories
-        * audio-worklet
-        * webaudio.audionode
+* #### Disabled by Default categories
+    * audio-worklet
+    * webaudio.audionode
 
 * Click the <em>Record</em> button to start recording.
 * Click the stop button of the <em>Recording</em> pannel.
