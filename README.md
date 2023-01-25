@@ -111,7 +111,7 @@ No overhead because of the node-to-node interface.
      style="float: left; height:250px;"/>
 
 #### Comments :
-* The deviation from the mean value is fairly constant, regardless of the node type. GainNode is fairly special because of its intrinsic short duration
+* The deviation from the mean value is fairly constant, regardless of the node type. GainNode is a bit  special because of its intrinsic short duration
 * To avoid glitches, we should consider the max duration, which can be much longer than the average value: in this case of study, we should use the max value: 574µs, while the average value is only 337µs.
 
 
